@@ -1,3 +1,1 @@
-# test
-# Pre-Kadai
-Pre-kadai2
+# Pre-kadai2
